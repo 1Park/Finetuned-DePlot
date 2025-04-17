@@ -39,12 +39,13 @@ This project fine-tunes the DePlot model to convert scatterplot images into stru
 
 - **Qualitative**: Accurately captures complex scatterplot patterns, reducing errors significantly.  
 
-🙌[Baseline Model (DEPLOT) ](https://huggingface.co/google/deplot)
 
 
 ![Qualitative Results](./documents/Qualitative.png)  
 *Comparison of GPT-4o, Baseline DePlot, and Fine-Tuned DePlot on a real-world scatterplot.*
 
+## 📑[Detailed Report](./documents/COSE474_2024__DL_Final_Project_Report.pdf)
+🙌[Baseline Model (DEPLOT) ](https://huggingface.co/google/deplot)
 <!--
 
 ## 🚀 Try It Yourself
