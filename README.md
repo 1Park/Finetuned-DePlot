@@ -45,7 +45,9 @@ This project fine-tunes the DePlot model to convert scatterplot images into stru
 *Comparison of GPT-4o, Baseline DePlot, and Fine-Tuned DePlot on a real-world scatterplot.*
 
 ## 📑[Detailed Report](./documents/COSE474_2024__DL_Final_Project_Report.pdf)
-🙌[Baseline Model (DEPLOT) ](https://huggingface.co/google/deplot)
+🙌[Baseline Model (DEPLOT) on HuggingFace](https://huggingface.co/google/deplot)
+
+📃[Baseline Model (DEPLOT) Paper](https://arxiv.org/abs/2212.10505)
 <!--
 
 ## 🚀 Try It Yourself
